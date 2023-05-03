@@ -16,14 +16,16 @@ export default [
     color: "red",
     items: {
       IServ: "https://has-hagen.de/",
-      Vertretungsplan: "https://has-hagen.de/iserv/infodisplay/file/10/infodisplay/0/Vertretungsplan/SuS/Tag2/subst_001.htm",
+      Vertretungsplan:
+        "https://has-hagen.de/iserv/infodisplay/file/10/infodisplay/0/Vertretungsplan/SuS/Tag2/subst_001.htm",
       OneNote: "https://onenote.com",
       Klassennotizbuch: "https://onenote.com/classnotebook",
       Teams: "https://teams.office.com/",
       Office: "https://office.com/",
       NotionAnki: "https://2anki.net/",
       Notion: "https://feuss.notion.site/",
-      Ordnerruecken: "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
+      Ordnerruecken:
+        "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
     },
   },
@@ -47,7 +49,8 @@ export default [
     category: "Finanzen",
     color: "blue",
     items: {
-      Volksbank: "https://www.volksbankeg.de/services_auth/auth-ui/?v=07f11cfe8b0ae022&client_id=fkp&redirect_uri=https:%2F%2Fwww.volksbankeg.de%2Fservices_cloud%2Fportal%2Fportal-oauth%2Flogin",
+      Volksbank:
+        "https://www.volksbankeg.de/services_auth/auth-ui/?v=07f11cfe8b0ae022&client_id=fkp&redirect_uri=https:%2F%2Fwww.volksbankeg.de%2Fservices_cloud%2Fportal%2Fportal-oauth%2Flogin",
       VimPay: "https://vimpay.eu/login/show",
       ErgoDepot: "https://mein-ergo-depot.de/",
       Finanzen100: "https://www.finanzen100.de/portfolio",
