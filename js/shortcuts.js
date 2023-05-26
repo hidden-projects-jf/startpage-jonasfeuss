@@ -28,6 +28,7 @@ export default [
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
       ChatDOC: "https://chatdoc.com/",
+      Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
     },
   },
