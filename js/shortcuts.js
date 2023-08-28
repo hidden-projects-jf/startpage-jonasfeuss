@@ -82,7 +82,7 @@ export default [
     color: "yellow",
     items: {
       FahrschulCampus: "https://www.fahrschul-campus.de/",
-      ClickAndLearn: "https://www.click-learn.info/",
+      ClickAndLearn: "https://schueler.click-learn.info/login?redirect=https%3a%2f%2fschueler.click-learn.info%2fHome%2fIndex",
       Terminbuchung: "https://www.supersaas.de/schedule/Fahrschule_Luecken/Theorieunterricht",
     },
   },
