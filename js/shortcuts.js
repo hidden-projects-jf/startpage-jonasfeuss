@@ -83,6 +83,7 @@ export default [
     items: {
       FahrschulCampus: "https://www.fahrschul-campus.de/",
       ClickAndLearn: "https://www.click-learn.info/",
+      Terminbuchung: "https://www.supersaas.de/schedule/Fahrschule_Luecken/Theorieunterricht",
     },
   },
 ];
