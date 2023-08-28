@@ -77,4 +77,12 @@ export default [
       Reddit: "https://www.reddit.com/",
     },
   },
+  {
+    category: "Fahrschule Luecken",
+    color: "yellow",
+    items: {
+      FahrschulCampus: "https://www.fahrschul-campus.de/",
+      ClickAndLearn: "https://www.click-learn.info/",
+    },
+  },
 ];
