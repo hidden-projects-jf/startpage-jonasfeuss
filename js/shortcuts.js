@@ -18,7 +18,8 @@ export default [
       IServ: "https://has-hagen.de/",
       Vertretungsplan:
         "https://has-hagen.de/iserv/infodisplay/file/10/infodisplay/0/Vertretungsplan/SuS/Tag2/subst_001.htm",
-      Stundenplan: "https://has-hagen.de/iserv/fs/file/local/Files/Stundenplan/stundenplan-montag-bis-samstag.pdf",
+      Stundenplan:
+        "https://has-hagen.de/iserv/fs/file/local/Files/Stundenplan/stundenplan-montag-bis-samstag.pdf",
       OneNote: "https://onenote.com",
       Klassennotizbuch: "https://onenote.com/classnotebook",
       Teams: "https://teams.office.com/",
