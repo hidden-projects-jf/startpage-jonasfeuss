@@ -32,7 +32,7 @@ export default [
       ChatDOC: "https://chatdoc.com/",
       Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
-      Omnivore: "https://omnivore.app/"
+      Omnivore: "https://omnivore.app/",
     },
   },
   {
