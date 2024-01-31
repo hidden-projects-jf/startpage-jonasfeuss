@@ -18,6 +18,7 @@ export default [
       IServ: "https://has-hagen.de/",
       Vertretungsplan:
         "https://has-hagen.de/iserv/infodisplay/file/10/infodisplay/0/Vertretungsplan/SuS/Tag2/subst_001.htm",
+      WebUntis: "https://kos.webuntis.com/WebUntis/?school=Hermann-Allmers-Schule",
       Stundenplan:
         "https://has-hagen.de/iserv/fs/file/local/Files/Stundenplan/stundenplan-montag-bis-samstag.pdf",
       OneNote: "https://onenote.com",
