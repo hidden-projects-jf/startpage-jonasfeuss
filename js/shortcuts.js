@@ -35,6 +35,7 @@ export default [
       Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
       Omnivore: "https://omnivore.app/",
+      iLovePDF: "https://www.ilovepdf.com/",
     },
   },
   {
