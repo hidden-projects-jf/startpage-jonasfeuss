@@ -36,6 +36,7 @@ export default [
       DeepL: "https://deepl.com/",
       Omnivore: "https://omnivore.app/",
       iLovePDF: "https://www.ilovepdf.com/",
+      eSignPDF: "https://smallpdf.com/de/pdf-unterschreiben",
     },
   },
   {
