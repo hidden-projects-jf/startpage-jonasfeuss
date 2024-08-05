@@ -15,11 +15,7 @@ export default [
     category: "Work",
     color: "red",
     items: {
-      IServ: "https://has-hagen.de/",
-      Vertretungsplan:
-        "https://has-hagen.de/iserv/infodisplay/file/10/infodisplay/0/Vertretungsplan/SuS/Tag2/subst_001.htm",
       OneNote: "https://onenote.com",
-      Klassennotizbuch: "https://onenote.com/classnotebook",
       Teams: "https://teams.office.com/",
       Office: "https://office.com/",
       NotionAnki: "https://2anki.net/",
