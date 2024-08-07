@@ -16,7 +16,8 @@ export default [
     color: "red",
     items: {
       eLearning: "https://elearning.bremerhaven.de/univention/portal/#/",
-      Vertretungsplan: "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
+      Vertretungsplan:
+        "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
       Office: "https://office.com/",
