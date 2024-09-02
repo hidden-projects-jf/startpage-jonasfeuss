@@ -18,11 +18,13 @@ export default [
       eLearning: "https://elearning.bremerhaven.de/univention/portal/#/",
       Vertretungsplan:
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
+      Outlook: "https://outlook.office365.com",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
       Office: "https://office.com/",
       NotionAnki: "https://2anki.net/",
       Notion: "https://feuss.notion.site/",
+      iLovePDF: "https://ilovepdf.com",
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
