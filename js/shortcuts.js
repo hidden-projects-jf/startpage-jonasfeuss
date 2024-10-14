@@ -79,6 +79,15 @@ export default [
     },
   },
   {
+    category: "Nachrichten",
+    color: "white",
+    items: {
+      ARDText: "https://ardtext.de/",
+      ZDFText: "https://zdftext.de/",
+      ntvText: "https://ntv.de/mediathek/teletext/",
+    },
+  },
+  {
     category: "Fahrschule Luecken",
     color: "yellow",
     items: {
