@@ -24,6 +24,7 @@ export default [
       Office: "https://office.com/",
       NotionAnki: "https://2anki.net/",
       Notion: "https://feuss.notion.site/",
+      Omnivore: "https://omnivore.app/",
       iLovePDF: "https://ilovepdf.com",
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
