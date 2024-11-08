@@ -18,7 +18,9 @@ export default [
       eLearning: "https://elearning.bremerhaven.de/univention/portal/#/",
       Vertretungsplan:
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
+      MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
       Outlook: "https://outlook.office365.com",
+      OWA: "https://outlook.live.com/owa/?layout=light",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
       Office: "https://office.com/",
