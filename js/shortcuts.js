@@ -20,9 +20,9 @@ export default [
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
       MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
       OWA: "https://outlook.live.com/owa/?layout=light",
+      Office: "https://office.com/",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
-      Office: "https://office.com/",
       NotionAnki: "https://2anki.net/",
       Notion: "https://feuss.notion.site/",
       Omnivore: "https://omnivore.app/",
@@ -30,7 +30,6 @@ export default [
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
-      ChatDOC: "https://chatdoc.com/",
       Miro: "https://miro.com/de/",
       Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
