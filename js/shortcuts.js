@@ -19,7 +19,6 @@ export default [
       Vertretungsplan:
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
       MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
-      Outlook: "https://outlook.office365.com",
       OWA: "https://outlook.live.com/owa/?layout=light",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
@@ -32,6 +31,7 @@ export default [
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
       ChatDOC: "https://chatdoc.com/",
+      Miro: "https://miro.com/de/",
       Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
     },
