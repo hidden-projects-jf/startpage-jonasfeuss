@@ -49,6 +49,7 @@ export default [
     items: {
       YouTube: "https://www.youtube.com/?gl=DE&hl=de",
       Twitch: "https://www.twitch.tv/directory/following",
+      Netflix: "https://netflix.com/",
     },
   },
   {
