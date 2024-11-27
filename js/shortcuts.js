@@ -16,6 +16,7 @@ export default [
     color: "red",
     items: {
       eLearning: "https://elearning.bremerhaven.de/univention/portal/#/",
+      itslearning: "https://hb.itslearning.com/",
       Vertretungsplan:
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
       MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
