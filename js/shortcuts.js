@@ -31,6 +31,7 @@ export default [
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
+      Gamma: "https://gamma.app/",
       Miro: "https://miro.com/de/",
       Resoomer: "https://resoomer.com/de/",
       DeepL: "https://deepl.com/",
