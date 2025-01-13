@@ -58,6 +58,8 @@ export default [
     category: "Finanzen",
     color: "blue",
     items: {
+      TradeRepublic: "https://traderepublic.com/de-de",
+      ScalableCapital: "https://de.scalable.capital/",
       Volksbank:
         "https://www.volksbankeg.de/services_auth/auth-ui/?v=07f11cfe8b0ae022&client_id=fkp&redirect_uri=https:%2F%2Fwww.volksbankeg.de%2Fservices_cloud%2Fportal%2Fportal-oauth%2Flogin",
       VimPay: "https://vimpay.eu/login/show",
