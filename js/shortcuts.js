@@ -27,6 +27,7 @@ export default [
       Office: "https://office.com/",
       OneNote: "https://onenote.com",
       Teams: "https://teams.office.com/",
+      Anki: "https://ankiweb.net/",
       NotionAnki: "https://2anki.net/",
       Notion: "https://notion.so/feuss",
       Omnivore: "https://omnivore.app/",
