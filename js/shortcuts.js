@@ -23,6 +23,7 @@ export default [
         "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
       MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
       OWA: "https://outlook.live.com/owa/?layout=light",
+      TeamViewer: "https://web.teamviewer.com/",
       Outlook: "https://outlook.office365.com/",
       Office: "https://office.com/",
       OneNote: "https://onenote.com",
