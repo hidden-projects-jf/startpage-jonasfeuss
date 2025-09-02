@@ -74,6 +74,7 @@ export default [
       AktienRechner: "https://rechneronline.de/aktien/",
       Tradingdesk: "https://trading.boerse-stuttgart.de/",
       TradingView: "https://www.tradingview.com/",
+      FTMO: "https://ftmo.com/de/",
       justETF: "https://www.justetf.com/de/",
       fondsweb: "https://www.fondsweb.com/de",
     },
