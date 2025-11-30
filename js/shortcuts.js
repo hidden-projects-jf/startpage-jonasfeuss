@@ -19,7 +19,7 @@ export default [
       itslearning:
         "https://sso-ng.elearning.bremerhaven.de/realms/ucs/protocol/openid-connect/auth?response_type=code&client_id=hb.itslearning.com&redirect_uri=https%3a%2f%2fwww.itslearning.com%2felogin%2fopenidconnect%2fauthorize&scope=openid+profile&nonce=5dcf03cc996ab1a8ee68ec5d002d4056&code_challenge=wA5eIXdMtBC80IL60luLetv2dghI_5tB3EUYn-9v2co&code_challenge_method=S256&state=eyJrZXl2YWx1ZSI6InhlWkd1WUxQIiwiY29udGV4dGlkIjoxLCJzaG9ydG5hbWUiOiJoYiIsInMiOnRydWV9",
       Vertretungsplan:
-        "https://mese.webuntis.com/WebUntis/?school=KLA+Bremerhaven#/basic/login",
+        "https://kla-bremerhaven.webuntis.com/WebUntis/?school=kla-bremerhaven#/basic/login",
       MNSproHomeAccess: "https://meine.kla-bremerhaven.de",
       OWA: "https://outlook.live.com/owa/?layout=light",
       TeamViewer: "https://web.teamviewer.com/",
