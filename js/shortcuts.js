@@ -74,6 +74,7 @@ export default [
       AktienRechner: "https://rechneronline.de/aktien/",
       Tradingdesk: "https://trading.boerse-stuttgart.de/",
       TradingView: "https://www.tradingview.com/",
+      BloFin: "https://blofin.com/en",
       MetaTrader4WebTrader: "https://metatraderweb.app/trade",
       FTMO: "https://ftmo.com/de/",
       justETF: "https://www.justetf.com/de/",
