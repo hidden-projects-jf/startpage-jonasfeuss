@@ -79,6 +79,7 @@ export default [
         "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
       BitcoinLiquidationHeatmap:
         "https://www.coinglass.com/pro/futures/LiquidationHeatMap?coin=BTC&type=symbol",
+      BitcoinFundingRate: "https://coinalyze.net/bitcoin/funding-rate/",
       MetaTrader4WebTrader: "https://metatraderweb.app/trade",
       FTMO: "https://ftmo.com/de/",
       justETF: "https://www.justetf.com/de/",
