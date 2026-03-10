@@ -35,10 +35,13 @@ export default [
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
       ChatGPT: "https://chat.openai.com/",
+      Claude: "https://claude.ai/",
+      Perplexity: "https://www.perplexity.ai/",
+      DeepLUebersetzer: "https://deepl.com/",
+      DeepLWrite: "https://deepl.com/write",
       Gamma: "https://gamma.app/",
       Miro: "https://miro.com/de/",
       Resoomer: "https://resoomer.com/de/",
-      DeepL: "https://deepl.com/",
     },
   },
   {
