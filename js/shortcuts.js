@@ -82,7 +82,8 @@ export default [
         "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
       CGBitcoinLiquidationHeatmap:
         "https://www.coinglass.com/pro/futures/LiquidationHeatMap?coin=BTC&type=symbol",
-      CABitcoinLiquidationHeatmap: "https://coinank.com/de/chart/derivatives/liq-heat-map",
+      CABitcoinLiquidationHeatmap:
+        "https://coinank.com/de/chart/derivatives/liq-heat-map",
       CoinMarketCap: "https://coinmarketcap.com/",
       BitcoinFundingRate: "https://coinalyze.net/bitcoin/funding-rate/",
       MetaTrader4WebTrader: "https://metatraderweb.app/trade",
