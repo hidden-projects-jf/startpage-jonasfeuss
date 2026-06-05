@@ -80,9 +80,10 @@ export default [
       BloFin: "https://blofin.com/en",
       EURUSDWechselkursEZB:
         "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
-      BitcoinLiquidationHeatmap:
+      CGBitcoinLiquidationHeatmap:
         "https://www.coinglass.com/pro/futures/LiquidationHeatMap?coin=BTC&type=symbol",
-      CoinAnk: "https://coinank.com/",
+      CABitcoinLiquidationHeatmap: "https://coinank.com/de/chart/derivatives/liq-heat-map",
+      CoinMarketCap: "https://coinmarketcap.com/",
       BitcoinFundingRate: "https://coinalyze.net/bitcoin/funding-rate/",
       MetaTrader4WebTrader: "https://metatraderweb.app/trade",
       FTMO: "https://ftmo.com/de/",
