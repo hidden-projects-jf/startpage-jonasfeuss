@@ -30,7 +30,7 @@ export default [
       Anki: "https://ankiweb.net/",
       NotionAnki: "https://2anki.net/",
       Notion:
-        "https://www.notion.so/feuss/Dashboard-185ac32606f7481da6b52330ae39f4b4",
+        "https://app.notion.com/p/feuss/Dashboard-185ac32606f7481da6b52330ae39f4b4",
       iLovePDF: "https://ilovepdf.com",
       Ordnerruecken:
         "https://www.avery-zweckform.com/tipp/vorlagen-ordnerruecken",
